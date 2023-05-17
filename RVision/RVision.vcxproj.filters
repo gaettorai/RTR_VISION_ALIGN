@@ -1,0 +1,348 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="RVision.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="RVisionDlg.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="framework.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="pch.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="RVisionAlign.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="DrawAlign.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="DrawReview.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="RVisionReview.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="RVisionFC.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="DrawFC.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="connect_Baumer.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="RVisionSetting.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="SettingCamera.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="SettingAlign.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="SettingNumpad.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="SettingFC.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="PopupManualAlign.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="DrawManualAlign.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="CommThread.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="PopupRecipeSelect.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="PopupRecipeAdd.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="PopupAlarm.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="DrawScaleH.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="SettingAlignMark.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="SettingLaser.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="PopupPreprocessImg.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="SettingHide.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="SettingAlignMethod.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="RVision.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="RVisionDlg.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="pch.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="RVisionAlign.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="DrawAlign.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="DrawReview.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="RVisionReview.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="RVisionFC.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="DrawFC.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="connect_Baumer.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="RVisionSetting.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="SettingCamera.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="SettingAlign.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="SettingNumpad.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="SettingFC.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="PopupManualAlign.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="DrawManualAlign.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="CommThread.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="PopupRecipeSelect.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="PopupRecipeAdd.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="PopupAlarm.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="DrawScaleH.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="SettingAlignMark.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="SettingLaser.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="PopupPreprocessImg.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="SettingHide.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="SettingAlignMethod.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="RVision.rc">
+      <Filter>리소스 파일</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="res\RVision.rc2">
+      <Filter>리소스 파일</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="res\RVision.ico">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\angle_off.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\angle_on.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\distance_off.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\distance_on.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\graphic_off.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\graphic_on.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\line_off.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\line_on.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\rectangle_off.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\rectangle_on.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\CLEAR.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\login.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\logoff.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\zoom_in.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\zoom_out.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\REG_EDGE.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\REG_MARK.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\LED_OFF.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\LED_ON.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\circle_off.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\circle_on.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\LED_OFF2.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\LEF_ON2.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\LED_ON2.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\RECONNECT.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\CenterDistOff.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\CenterDistOn.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\bitmap1.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\edge_pos.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\mark_pos.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\12.png">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\13.png">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\14.png">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\34.png">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\all.png">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\24.png">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\12.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\13.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\24.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\34.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\all.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\123.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\124.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\134.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\234.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+  </ItemGroup>
+</Project>
